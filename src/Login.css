@@ -1,0 +1,36 @@
+.inputs {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 300px;
+  }
+
+  .login-container {
+    background-color: rgb(106, 135, 160);
+    height: 400px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 20px;
+  }
+
+  .add-button {
+    background-color: rgb(50, 110, 126);
+    height: 35px;
+    width: 300px;
+    border-radius: 8px;
+    border-width: 0;
+    color: white;
+    font-family: roboto 20px;
+    font-weight: 500;
+    margin-top: 20px;
+  }
+
+  .main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

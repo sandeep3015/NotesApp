@@ -1,0 +1,27 @@
+.header-container {
+    height: 10vh;
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(88, 112, 233);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text {
+    font-size: 30px roboto;
+    font-weight: 500;
+    color: white;
+}
+
+.nav-menu {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-link {
+    font: 20px roboto;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
